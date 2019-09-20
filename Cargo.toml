@@ -1,0 +1,14 @@
+[package]
+name = "dsync"
+version = "0.1.0"
+authors = ["Lisheng Zheng <zls1129@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = "2.32.0"
+yaml-rust = "0.4"
+console = "0.6.2"
+notify = "4.0.13"
+indicatif = "0.9.0"

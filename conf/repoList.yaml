@@ -1,0 +1,8 @@
+from: ""
+to: ""
+revision: "4"
+items:
+  - change: true
+    images:
+      - nginx
+    tag: latest
